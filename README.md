@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **HTML,CSS,JQUERY,JAVASCRIPT**
+- 💬 Ask me about **HTML,CSS,JQUERY,JAVASCRIPT,BOOTSTRAP**
 
 - 📫 How to reach me **gondaliyarudra61@gmail.com**
 
